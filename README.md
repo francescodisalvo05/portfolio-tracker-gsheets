@@ -3,10 +3,6 @@
 ![image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-<p align="center">
-    <img src="demo.gif" alt="demo" height="350px" />
-</p>
-
 If you're a financial geek with a spreadsheet tracking your ETF or stock orders — or if you're planning to create one — I've developed a template and script that allows you to track your portfolio value over time with customizable dates.
 
 While some brokers offer similar features, this historical data might be lost if you switch brokers. More importantly, how cool is it to create and customize something that perfectly fits your needs?
